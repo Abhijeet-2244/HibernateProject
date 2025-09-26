@@ -1,1 +1,2 @@
 this is my new git project
+this is to check merge conflict
